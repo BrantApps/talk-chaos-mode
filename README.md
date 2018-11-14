@@ -1,5 +1,5 @@
 ### Chaos Mode talk companion repo
-This repository complements the ["Chaos Mode: A foray into fuzz" talk](https://goo.gl/GzC7Xh) given at SWMobile's November 2018 meet-up (video [here](https://youtu.be/ES-852Dr4ZY))
+This repository complements the ["Chaos Mode: A foray into fuzz"](https://goo.gl/GzC7Xh) talk given at SWMobile's November 2018 meet-up (video [here](https://youtu.be/ES-852Dr4ZY))
 
 If you'd like to get it up and running add the following libraries as external dependencies:
 
