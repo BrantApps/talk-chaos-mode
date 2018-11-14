@@ -1,0 +1,14 @@
+# Java class files
+*.class
+
+# generated files
+bin/
+out/
+gen/
+
+# OSX files
+.DS_Store
+
+*.iml
+.idea
+#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
